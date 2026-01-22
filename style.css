@@ -71,6 +71,7 @@ nav > a:hover {
     color: black;
     border-radius: 5px;
     padding: 7px;
+    transition-duration: 0.5s;
 }
 
 main {
